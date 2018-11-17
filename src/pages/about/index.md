@@ -4,9 +4,7 @@ title: Tyler Galske
 ---
 Howdy. My name is Tyler and I'm a senior at [Marist College](https://www.marist.edu/) where I study computer science. I'm looking for full-time employment as a software engineer following my graduation in May, 2019.
 
-
-
-The best way to reach me is through email at alpha@bravo.
+The best way to contact me is through email at alpha@bravo.
 
 ```
 alpha = tyler.galske1
@@ -16,10 +14,18 @@ alpha = tyler.galske1
 bravo = marist.edu
 ```
 
+### (Aspiring) Software Engineer 🖥
+
+At Marist, I'm learning the fundamentals of computer science, like programming languages, data structures, and algorithms. In the summers of 2017 and 2018, I interned at ESPN. I contributed to some cool, but challenging projects and learned about the sports media business from a technological point of view.
+
 ### Singer 🎵
 
-I've been a member of Marist Singers all four years. I love being part of a choir and making music with friends. It's also a great way for me to take a break from staring at a computer monitor.
+I've been a member of Marist Singers for all four years. My experience at Marist wouldn't be the same without the friendships I've made.
+
+### Beach Lover ☀️
+
+No explanation needed.
 
 ### Skier ⛷️
 
-I love skiing with friends and family. I started when I was three at Mount Snow in Dover, Vermont. I'm a big fan of moguls.
+When winter rolls around, you can find me on the slopes. I'm a big fan of moguls.
