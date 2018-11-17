@@ -37,7 +37,7 @@
     "build:css": "postcss src/css/tailwind.css -o src/css/index.css",
     "start": "npm run develop",
     "clean": "rimraf .cache public",
-    "build": "npm run clean && gatsby build",
+    "build": "npm run clean && npm run build:css && gatsby build",
     "develop": "npm run build:css & gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
