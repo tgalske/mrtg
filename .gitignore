@@ -9,3 +9,5 @@ static/admin/*.bundle.*
 yarn-error.log
 # webstorm
 .idea/
+# Tailwind generated CSS
+src/css/index.css

@@ -1,18 +1,8 @@
 ---
 templateKey: about-page
-title: Tyler Galske
+title: About Me
 ---
 Howdy. My name is Tyler and I'm a senior at [Marist College](https://www.marist.edu/) where I study computer science. I'm looking for full-time employment as a software engineer following my graduation in May, 2019.
-
-The best way to contact me is through email at alpha@bravo.
-
-```
-alpha = tyler.galske1
-```
-
-```
-bravo = marist.edu
-```
 
 ### (Aspiring) Software Engineer 🖥
 
